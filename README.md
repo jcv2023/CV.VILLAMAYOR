@@ -1,0 +1,114 @@
+# CV.VILLAMAYOR
+CV.VILLAMYOR2023
+<html >
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>CV Villamayor 2023</title>
+<link type="text/css" rel="stylesheet" href="css/css.css" />
+</head>
+<body>
+<!-- Begin Wrapper -->
+<div id="wrapper">
+  <div class="wrapper-top"></div>
+  <div class="wrapper-mid"> 
+    <!-- Begin Paper -->
+    <div id="paper">
+      <div class="paper-top"></div>
+      <div id="paper-mid">
+        <div class="entry"> 
+          <!-- Begin Image --> 
+          <img class="portrait" src="foto1.png" width="109" height="109"/> 
+          <!-- End Image --> 
+          <!-- Begin Personal Information -->
+          <div class="self">
+            <h1 class="name"> <span>VILLAMAYOR, Juan Carlos</span> </h1>
+            <h3 class="name"> <span><b>ANALISTA DE SISTEMAS</b></span></h3>
+            <br>
+            <ul>
+              <li class="ad">Zona Sur, Quilmes.</li>
+              <li class="mail">villamayorjuancarlos@hotmail.com</li>
+              <li class="tel">1151266680</li>
+              <li class="web">variable pagina web</li>
+            </ul>
+          </div>
+          <!-- End Personal Information --> 
+        </div>
+        <!-- Begin 1st Row -->
+        <div class="entry">
+          <h2><b>OBJETIVOS<b></h2>
+          <p><b>Desarrollarme en un ambiente de trabajo que me lleve a nuevas fronteras de conocimiento y aprendizaje<b></p>
+        </div>
+        <!-- End 1st Row -->
+        <div class="entry">
+          <h2>FORMACION ACADEMICA</h2>
+          <!-- Variable Educacion -->
+          <p><b>LICENCIADO en GESTION INFORMATICA<b>• 2021 Estudiante
+•UNIVERSIDAD NACIONAL DE LOMAS DE ZAMORA</p>
+
+<p>TÉCNICO SUP. ANALISIS DE SISTEMAS • 2021 Graduado
+•DR. BERNARDO HOUSSAY I.S.F.D Y T. NRO 24 BERNAL</p>
+        </div>
+        <!-- Begin 3rd Row -->
+        <div class="entry">
+          <h2>EXPERIENCIA LABORAL</h2>
+          <p><b>EDESA S.A. Distribuidora de Electricidad de Salta • 2021</b></p>
+<p>- Soporte TI, Mesa de ayuda.
+- VPN, (Configuración y generación de claves.)
+- Google Apps, (Administración de paquete completo.)
+- Autenticador de Google, Token.
+- FortiClient, TeamViewer, Ultra VNC, Trabajo remoto.
+- Trello y Jira (Manejo de Gestión de Trabajo.)</p>
+      
+<p>Práctica Profesional 3er Año • 2020</p>
+<p>- Programación de Páginas Web.
+- Lenguajes de Programación: PHP, HTML 5, CSS,
+BOOTSTRAP, JavaScript, Ajax. Visual Studio, SQL Server
+2008 R2, Reporting, Angular CLI, Node.js.
+- Bases de Datos: MYSQL. (Creación y Manipulación de
+Tablas), Administración con phpMyAdmin
+- Editor de Texto: Sublime Text.
+- Hosting: 000webhost.
+- Login Completo: Inicio de Sesión, Registro de Usuarios.
+- XAMPP: Paquete de Software libre, Gestión de Bases de
+Datos MySQL, Servidor Web Apache, Script PHP, Perl.</p>
+        </div>
+        <!-- Begin 4th Row -->
+        <div class="entry">
+          <h2>CONOCIMIENTOS DE INFORMATICA</h2>
+          <p>Windows, Microsoft Office
+(Exel, Word, Access) Visual
+Basic, Visual 6, Visual
+Studio, SQL Server.</p>
+        </div>
+        <!-- End 4th Row -->
+        <div class="entry">
+          <h2>CERTIFICACIONES</h2>
+          <p>Introduccion a CIBERSEGURIDAD - 
+Fundacion Telefónica Movistar Arg. - 
+Expedición: Dic. 2022 - 
+Sin fecha de vencimiento - 
+ID de Credencial:
+79473c1f-d9dc-4a7f-bf7c-
+118bcc978a06</p>
+<br>
+<br>
+<p id="demo">DETALLES</p>
+
+<button type="Button" id="boton">Más Información</button>
+
+<script src="js/funcion.js"></script>
+
+        </div>
+        <!-- Begin 5th Row --> 
+      </div>
+      <div class="clear"></div>
+      <div class="paper-bottom"></div>
+    </div>
+    <!-- End Paper --> 
+  </div>
+  <div class="wrapper-bottom"></div>
+</div>
+<!-- End Wrapper -->
+
+</body>
+</html>
